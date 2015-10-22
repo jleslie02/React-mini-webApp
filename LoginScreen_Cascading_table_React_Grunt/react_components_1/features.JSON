@@ -1,0 +1,15 @@
+
+{ 
+  
+ "countries":["India","United States of America", "Mexico"],
+
+ "allState":[{"Assam":["Tangla", "Silchar", "Rangia"], "Bihar":["Gaya","Patna","Siwan"], "Goa":["Batim", "Borim", "Colvale"], "Gujarat":["Morbi","Surat","Anand"], "Haryana":["Gurgaon","Faridabad","Ambala"]},
+             {"California":["San jose", "Sunnyvale", "Cupertino"], "Georgia":["Kennesaw","Atlanta","Marietta"], "Ohio":["Cincinnati","Cleveland","Columbus"], "Washington":["DuPont","Auburn","Bellevue"], "New York":["Middletown","New York","Albanie"]},
+ 			{"Chihuahua":["Balleza","La Cruz","Delicias"], "Sonora":["Cajeme","Hermosillo","Nogales"], "Coahuila":["Guerrero","Sabinas","Saltillo"], "Durango":["El salto","cIUDAD lerdo","Durango"], "Oaxaca":["Salina Cruz","San Antonio de la Cal","Loma Bonita"]}]
+ 
+}
+
+  
+
+
+

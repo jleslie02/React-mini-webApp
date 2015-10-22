@@ -1,0 +1,83 @@
+.checkbox{
+margin-left: 30px;
+width: 200px
+}
+
+label{
+  margin-top: 3px;
+  margin-left: -20px
+}
+
+label+i{
+
+ margin-top: -10px;
+ width: 30px;
+ float: right;
+ color:#2EB8E6;
+ opacity: 0.6
+}
+
+
+
+.pe-7s-filter
+{
+  margin-right: 8px;
+}
+
+input[type=radio] {
+  display: none;
+}
+input[type=radio]{
+   -webkit-appearance: checkbox; /* Chrome, Safari, Opera */
+    -moz-appearance: checkbox;    /* Firefox */
+    -ms-appearance: checkbox; 
+}
+
+label:before {
+  font-weight: normal;
+  content: '';
+  display: inline-block;
+  width: 17px;
+  height: 17px;
+  margin-right: 10px;
+  margin-left: -30px;
+  position: absolute;
+  left: 5px;
+  bottom: 1px;
+  background-color:  #F5F5F5;
+  box-shadow: inset 0px 2px 1px 0px #434343;
+}
+
+.checkbox label:before {
+  border-radius: 3px;
+}
+
+input[type=radio]:checked + label:before {
+  content: '\2713';
+  text-shadow: 1px 1px 1px #10758C;
+  font-size: 14px;
+  color: #f3f3f3;
+  background-color:  #2EB8E6;
+  text-align: center;
+  line-height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

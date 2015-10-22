@@ -1,0 +1,25 @@
+/** @jsx React.DOM */
+var React = require('react');
+
+module.exports = React.createClass({
+
+
+    render:function(){
+
+
+return(
+        <tr className="NullRow">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+      );
+       
+    }
+
+
+});
+  

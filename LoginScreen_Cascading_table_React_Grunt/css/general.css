@@ -1,0 +1,108 @@
+*{margin:0; padding:0; }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url('http://themes.googleusercontent.com/static/fonts/opensans/v5/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff') format('woff');
+}
+
+body {
+	height:100%;
+	width: 100%;
+	font-family: 'open sans',arial,sans-serif;
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: cover;
+  margin-bottom: -30px;
+  background-image: url('../img/bck4.jpg');
+
+}
+
+nav{
+			
+			font-size: 20px;
+			border:1px solid #ccc;
+			border-width:1px 0;
+			margin-top:15%;
+			padding:0;
+			text-align:center;
+			background-color: rgba(255,255,255,0.2);
+
+	}
+
+
+nav a{
+			display:inline-block;
+			padding:20px;
+			color:#3C444F
+		}
+a{
+			text-decoration:none;
+			color:#c00;
+}
+nav{
+
+	margin-top: -10px;
+}
+
+
+
+nav a:hover
+{
+	text-decoration:none;
+	color:#3C444F;
+	opacity:0.8;
+
+}
+#burger
+{
+	font-size: 23px;
+
+}
+
+#main_menu span 
+{
+	cursor: pointer;
+}
+
+
+
+
+/* FOOOOOOOOOOOOTTTTEEERRRRR */
+
+
+.footer {
+
+ position: fixed;
+     bottom: 0px;
+     width: 100%;
+     overflow: visible;
+     z-index: 99;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height:60px;
+  background-color: #24241F;
+  opacity: 0.8;
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.container {
+	
+	margin-top:10px;
+	padding:0;
+	
+	text-align: center;
+    width: auto;
+    color: #808080;
+    max-width: 680px;
+
+}
+.container .text-muted {
+	
+	color: #B7B8B8;
+
+}

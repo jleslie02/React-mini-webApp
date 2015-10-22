@@ -1,0 +1,63 @@
+
+{ 
+
+ "regions":[{"IEMEIA":["Sub-Region 1","Sub-Region 2","","","","","","","",""]},
+
+ {"North America":["Sub-Region 1","Sub-Region 2","","","","","","","",""]},
+
+  {"Greater China":["Sub-Region 1","Sub-Region 2","","","","","","","",""]}, 
+
+  {"North Asia":["Sub-Region 1","Sub-Region 2","","","","","","","",""]},
+
+  {"South Asia":["Sub-Region 1","Sub-Region 2","","","","","","","",""]}, 
+
+  {"APAC":["Sub-Region 1","Sub-Region 2","","","","","","","",""]}, 
+
+  {"":["","","","","","","","","",""]},
+
+  {"":["","","","","","","","","",""]},
+
+  {"":["","","","","","","","","",""]},
+
+  {"":["","","","","","","","","",""]}],
+
+
+ "HybridOpCo": ["","","","","","","","","",""],
+
+ "countrySubregions":[{"countrySub12": ["Tldkne","Pien","","","","","","","",""]},
+
+ {"countrySub11": ["Yubfwada","Gumdam","UswYA"," "," "," "," "," "," "," "]},
+
+ {"countrySub21": ["Canada","Guam","USA"," "," "," "," "," "," "," "]},
+
+ {"countrySub22": ["Yong","Me","OJDE","","","","","","",""]},
+
+ {"countrySub31": ["Ondg","Iodee","OfeE","","","","","","",""]},
+
+ {"countrySub32": ["ODJ","pojij","iiijo","","","","","","",""]},
+
+ {"countrySub41": ["ODJ","oji","pok","","","","","","",""]},
+
+ {"countrySub42": ["ODJ","oijioj","","","","","","","",""]},
+
+ {"countrySub51": ["ODJ","gviu","","","","","","","",""]},
+ 
+ {"countrySub52": ["ODJ","9juubi","","","","","","","",""]},
+
+ {"countrySub61": ["ODJ","ygviu","","","","","","","",""]},
+ 
+ {"countrySub62": ["OinDJ","9uhubi","","","","","","","",""]}],
+
+"opconil": ["","","","","","","","","",""],
+
+"opCo1": ["OinDJ","9uhuhbbi","","","","","","","",""],
+
+"opCo2": ["OinDJ","9uhujlibi","","","","","","","",""],
+
+"opCo3": ["USA - AT&T","USA - Apple store","USA - apple retail","USA - AT&T","USA - sprint","USA - verizon","USA - walmart","USA - target","USA - best buy","..."]
+
+}
+  
+
+
+
